@@ -1,0 +1,17 @@
+{
+  "name": "ADS1115",
+  "author": "tasos bka",
+  "pins": [
+    "VCC",
+    "GND",
+    "SCL",
+    "SDA",
+    "ADDR",
+    "ALRT",
+    "A3",
+    "A2",
+    "A1",
+    "A0"
+  ],
+  "controls": []
+}
